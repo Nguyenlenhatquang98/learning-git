@@ -1,0 +1,14 @@
+{
+  "listAccount": [
+    {
+      "user": "Quang",
+      "pass": "123",
+      "address": "helo"
+    },
+    {
+      "user": "Minh",
+      "pass": "321",
+      "address": "hello1"
+    }
+  ]
+}
